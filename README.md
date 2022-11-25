@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 👋, I'm Suneth Tissera </h1> 
+<h1 align="center">Hey there! 👋, I'm Suneth Tissera </h1> 
 <h3 align="center">An entry level developer stepping into the tech realm</h3>
 
 
