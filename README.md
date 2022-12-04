@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey there! 👋, I'm Suneth Tissera </h1> 
-<h3 align="center">An entry level developer stepping into the tech realm</h3>
 
 
 **Roses are red, Violets are blue, Unexpected "}" on line 32**
