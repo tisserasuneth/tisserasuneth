@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there! 👋, I'm Suneth Tissera </h1> 
 
-
-**Roses are red, Violets are blue, Unexpected "}" on line 32**
-
 - 🔭 Currently working on: [Facebook DETR Object Detection for Stem Cells](https://github.com/tisserasuneth/Facebook-DETR-Object-Detection-Stem-Cells)
 
 - 👨‍💻 Portfolio: [https://tisserasuneth.github.io/portfolio](https://tisserasuneth.github.io/portfolio)
