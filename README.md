@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 Email: **tisserasuneth@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1aipBAkCzbOB93MPfhoWPA8vT_V12LVtS/view?usp=sharing](https://drive.google.com/file/d/1aipBAkCzbOB93MPfhoWPA8vT_V12LVtS/view?usp=sharing)
+- 📄 Resume: [[https://drive.google.com/file/d/1aipBAkCzbOB93MPfhoWPA8vT_V12LVtS/view?usp=sharing](https://drive.google.com/file/d/1Kyhjr2lp6-iM8VSnUD5Zmfoh9TvGUbYs/view?usp=share_link)](https://drive.google.com/file/d/1aipBAkCzbOB93MPfhoWPA8vT_V12LVtS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
