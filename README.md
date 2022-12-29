@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey there! 👋, I'm Suneth Tissera </h1> 
+<h1 align="center"> Suneth Tissera </h1> 
 
 - 🔭 Currently working on: [Facebook DETR Object Detection for Stem Cells](https://github.com/tisserasuneth/Facebook-DETR-Object-Detection-Stem-Cells)
 
