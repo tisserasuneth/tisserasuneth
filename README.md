@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Suneth Tissera </h1> 
 
+<!--
 - 👨‍💻 Portfolio: [https://tisserasuneth.github.io/portfolio](https://tisserasuneth.github.io/portfolio)
+-->
 
 - 📫 Email: **tisserasuneth@gmail.com**
 
