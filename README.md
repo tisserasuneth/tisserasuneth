@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Suneth Tissera </h1> 
+<h1 align="center"> 🏄🏽‍♂️ Suneth Tissera </h1> 
 
 <!--
 - 👨‍💻 Portfolio: [https://tisserasuneth.github.io/portfolio](https://tisserasuneth.github.io/portfolio)
