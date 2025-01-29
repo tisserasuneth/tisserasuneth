@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 👨‍💻 Portfolio: [https://tisserasuneth.github.io/portfolio](https://tisserasuneth.github.io/portfolio)
 -->
 
-- 👨🏽‍💼 **AI & Software Engineer II:** <a href="https://www.pmg.com"> PMG Digital Agency </a>
+### AI & Software Engineer II @ <a href="https://www.pmg.com"> PMG Digital Agency </a>
 
 - 📫 **Email:** tisserasuneth@gmail.com
   
-- 📄 **Resume:** [https://drive.google.com/file/d/1Kyhjr2lp6-iM8VSnUD5Zmfoh9TvGUbYs/view?usp=share_link](https://drive.google.com/file/d/1Kyhjr2lp6-iM8VSnUD5Zmfoh9TvGUbYs/view?usp=share_link)
+- 📄 **Resume:** [Suneth Tissera - Resume.pdf](https://drive.google.com/file/d/13X53EVFrtzRPdduMW_up-V89BHNwyKRr/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
