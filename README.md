@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 -->
 
 ### AI & Software Engineer II @ <a href="https://www.pmg.com"> PMG Digital Agency </a>
-
-- 🌏 **Website** [https://tisserasuneth.com](https://tisserasuneth.com)
   
 - 📫 **Email:** tisserasuneth@gmail.com
-  
-- 📄 **Resume:** [Suneth Tissera - Resume.pdf](https://drive.google.com/file/d/13X53EVFrtzRPdduMW_up-V89BHNwyKRr/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
